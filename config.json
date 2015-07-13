@@ -1,4 +1,4 @@
 {
-  "slug": "java",
-  "problem": "web-crawler"
+  "language": "java",
+  "name": "web-crawler"
 }
