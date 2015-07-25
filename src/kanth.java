@@ -1,4 +1,4 @@
 class Kanth {
- void Kanth(){}
+  void Kanth(){}
  public static void main(){}
 }
